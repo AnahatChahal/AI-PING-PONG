@@ -1,0 +1,30 @@
+body
+{
+   background: cover;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading  button
+{
+    float: right;
+    border: 2px solid black;
+}
+
+#start
+{
+    font-size: 20px;
+}
+
+#restart
+{
+    font-size: 20px;
+}
+#status
+{
+    font-size: 22px;
+}
