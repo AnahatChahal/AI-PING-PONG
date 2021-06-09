@@ -9,6 +9,11 @@ body
     text-align: left;
 }
 
+.heading h3
+{
+    display: inline;
+}
+
 .heading  button
 {
     float: right;
@@ -27,4 +32,22 @@ body
 #status
 {
     font-size: 22px;
+}
+
+h4
+{
+    background-color: rgb(197, 224, 247);
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
 }
